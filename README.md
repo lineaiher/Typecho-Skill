@@ -1,4 +1,4 @@
-# Typecho-Skill: Realize the link in the article to open in a new tab / Typecho技巧：实现文章内链接在新标签打开
+# Typecho-Tips: Realize the link in the article to open in a new tab / Typecho技巧：实现文章内链接在新标签打开
 在拿到一个没有经过魔改，或者使用未考虑链接跳转这种情况的主题时，该文章就会对你很有用处。  默认情况Typecho文章中如果有添加链接，那么是从当前窗口跳转的，并且外链没有添加nofollow标签，不利于SEO，Typecho文章内链接新窗口并添加nofollow标签如下。
 
 
